@@ -13,7 +13,7 @@ to produce soft shadows.  Now that I have more experience with graphics API unde
 *  Don’t go above 1K for the size of your SATs or your shadow will fail!
 *  Summed-Area Tables will greatly magnify all the problems that filtered shadow techniques have.
 *  Filtering using SATs is fast and very good quality, but works much better for larger kernel sizes.
-*  Floating-point precision caused a lot of issue.
+*  Floating-point precision caused a lot of issues.
 
 ![Alt Text](https://github.com/timurson/Summed-AreaVSM/blob/master/Image1.PNG)
 ![Alt Text](https://github.com/timurson/Summed-AreaVSM/blob/master/Image2.PNG)
